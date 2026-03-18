@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "title": "Alsena Group | Your Partner in Digital Transformation & Digital Marketing",
+    "description": "Your partner in digital transformation and digital marketing. We help businesses accelerate their growth through innovative digital strategies and marketing solutions."
+  },
+  "hero": {
+    "badge": "YOUR PARTNER IN DIGITAL TRANSFORMATION & MARKETING",
+    "title": "We help businesses grow through digital transformation and strategic marketing"
+  },
+  "services": {
+    "badge": "OUR EXPERTISE",
+    "title": "End-to-end digital solutions for modern businesses",
+    "digitalStrategy": {
+      "title": "Digital Strategy",
+      "description": "Crafting comprehensive digital roadmaps that align technology, processes, and people to drive measurable business outcomes and competitive advantage."
+    },
+    "webDevelopment": {
+      "title": "Web Development",
+      "description": "Building modern, performant websites and web applications using cutting-edge technologies that deliver exceptional user experiences and drive conversions."
+    },
+    "seoContent": {
+      "title": "SEO & Content Marketing",
+      "description": "Driving organic growth through data-driven SEO strategies, high-quality content creation, and technical optimization that improves visibility and authority."
+    },
+    "socialMedia": {
+      "title": "Social Media Marketing",
+      "description": "Engaging audiences across platforms with compelling social strategies, community management, and content that builds brand awareness and loyalty."
+    },
+    "digitalAdvertising": {
+      "title": "Digital Advertising",
+      "description": "Maximizing ROI through targeted campaigns across Google Ads, Meta, LinkedIn, and programmatic channels with continuous performance optimization."
+    }
+  },
+  "whyUs": {
+    "badge": "WHY ALSENA",
+    "title": "Five reasons to partner with us",
+    "reasons": {
+      "expertise": {
+        "title": "Full-stack digital expertise",
+        "description": "Our team combines deep technical knowledge with marketing savvy, bringing a holistic approach to digital transformation that covers strategy, development, and growth."
+      },
+      "results": {
+        "title": "Data-driven results",
+        "description": "Every decision is backed by analytics and measurable KPIs. We track, optimize, and report on performance so you always know the impact of your investment."
+      },
+      "flexibility": {
+        "title": "Tailored solutions",
+        "description": "Whether you need a complete digital overhaul or targeted marketing campaigns, we adapt our approach to match your business goals and budget."
+      },
+      "speed": {
+        "title": "Agile execution",
+        "description": "Our lean methodology means faster launches, rapid iterations, and continuous improvement — keeping your business ahead of the competition."
+      },
+      "partnership": {
+        "title": "True partnership approach",
+        "description": "We invest in understanding your industry, customers, and goals to deliver strategies that truly fit — not just generic templates."
+      }
+    }
+  },
+  "offices": {
+    "badge": "OUR PRESENCE",
+    "headOfficeLabel": "Head office",
+    "usOfficeLabel": "United States Office",
+    "locations": {
+      "brussels": "Brussels, Belgium",
+      "paris": "Paris, France",
+      "london": "London, UK",
+      "amsterdam": "Amsterdam, Netherlands",
+      "luxembourg": "Luxembourg City, Luxembourg",
+      "miami": "Miami, USA"
+    },
+    "headOffice": {
+      "city": "Brussels",
+      "country": "Belgium"
+    },
+    "usOffice": {
+      "address": "1100 Brickell Bay Drive 75A",
+      "city": "Miami FL 33131",
+      "country": "USA",
+      "phone": "+1 917 213 3311",
+      "email": "USAoffice@alsena-group.eu"
+    }
+  },
+  "footer": {
+    "tagline": "Your partner in digital transformation and digital marketing",
+    "servicesTitle": "SERVICES",
+    "services": {
+      "digitalStrategy": "Digital Strategy",
+      "webDevelopment": "Web Development",
+      "seoContent": "SEO & Content",
+      "socialMedia": "Social Media",
+      "digitalAdvertising": "Digital Advertising"
+    },
+    "copyright": "Alsena Group. All rights reserved."
+  }
+}

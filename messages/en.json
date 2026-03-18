@@ -62,16 +62,21 @@
     "headOfficeLabel": "Head office",
     "usOfficeLabel": "United States Office",
     "locations": {
-      "brussels": "Brussels, Belgium",
+      "burgas": "Burgas, Bulgaria",
+      "miami": "Miami, USA",
       "paris": "Paris, France",
       "london": "London, UK",
       "amsterdam": "Amsterdam, Netherlands",
-      "luxembourg": "Luxembourg City, Luxembourg",
-      "miami": "Miami, USA"
+      "luxembourg": "Luxembourg City, Luxembourg"
     },
     "headOffice": {
-      "city": "Brussels",
-      "country": "Belgium"
+      "company": "Alsena Ltd",
+      "address": "71 Slavianska Street",
+      "city": "Burgas 8000",
+      "country": "Bulgaria",
+      "uic": "206859348",
+      "vat": "BG206859348",
+      "email": "info@alsena-group.eu"
     },
     "usOffice": {
       "address": "1100 Brickell Bay Drive 75A",

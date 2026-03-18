@@ -60,9 +60,16 @@ export default function Footer() {
               <h4 className="text-xs font-semibold tracking-[0.15em] text-muted uppercase mb-4">
                 {o("headOfficeLabel")}
               </h4>
-              <p className="text-sm text-foreground">
-                {o("headOffice.city")}, {o("headOffice.country")}
-              </p>
+              <div className="space-y-1 text-sm text-foreground">
+                <p className="font-semibold">{o("headOffice.company")}</p>
+                <p>{o("headOffice.address")}</p>
+                <p>{o("headOffice.city")}, {o("headOffice.country")}</p>
+                <p>
+                  <a href={`mailto:${o("headOffice.email")}`} className="hover:text-foreground/60 transition-colors">
+                    {o("headOffice.email")}
+                  </a>
+                </p>
+              </div>
             </div>
 
             {/* US Office */}

@@ -1,12 +1,12 @@
 import { useTranslations } from "next-intl";
 
 const locationKeys = [
-  "brussels",
+  "burgas",
+  "miami",
   "paris",
   "london",
   "amsterdam",
   "luxembourg",
-  "miami",
 ] as const;
 
 export default function Offices() {
@@ -29,9 +29,22 @@ export default function Offices() {
             <h3 className="text-xs font-semibold tracking-[0.15em] text-muted uppercase mb-3">
               {t("headOfficeLabel")}
             </h3>
-            <p className="text-lg font-semibold">
-              {t("headOffice.city")}, {t("headOffice.country")}
-            </p>
+            <div className="space-y-1">
+              <p className="text-lg font-semibold">{t("headOffice.company")}</p>
+              <p className="text-sm text-muted">{t("headOffice.address")}</p>
+              <p className="text-sm text-muted">{t("headOffice.city")}</p>
+              <p className="text-sm text-muted">{t("headOffice.country")}</p>
+              <p className="text-sm text-muted pt-1">UIC: {t("headOffice.uic")}</p>
+              <p className="text-sm text-muted">VAT: {t("headOffice.vat")}</p>
+              <p className="text-sm text-muted pt-1">
+                <a
+                  href={`mailto:${t("headOffice.email")}`}
+                  className="hover:text-foreground transition-colors"
+                >
+                  {t("headOffice.email")}
+                </a>
+              </p>
+            </div>
           </div>
 
           {/* United States Office */}

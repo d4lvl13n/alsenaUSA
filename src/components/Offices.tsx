@@ -53,7 +53,7 @@ export default function Offices() {
               {t("usOfficeLabel")}
             </h3>
             <div className="space-y-1">
-              <p className="text-lg font-semibold">{t("usOffice.address")}</p>
+              <p className="text-sm text-muted">{t("usOffice.address")}</p>
               <p className="text-sm text-muted">{t("usOffice.city")}</p>
               <p className="text-sm text-muted">{t("usOffice.country")}</p>
               <p className="text-sm text-muted mt-2">{t("usOffice.phone")}</p>
